@@ -1,0 +1,9 @@
+CMakeCache.txt
+CMakeFiles/
+.vscode/
+build/
+include/
+lib/
+cmake_install.cmake
+src/stratosml/CMakeFiles/
+tests
