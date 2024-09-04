@@ -47,7 +47,3 @@ g++ -std=c++20 -I./include -L./lib -fcompare-debug-second <path to file>.cpp -o 
 - DataFrame splitting
 - Implement batch training
 - Implement more layer types, optimizers, schedulers, activation functions, losses.
-<<<<<<< HEAD
-=======
-
->>>>>>> 8d3d2380cce5635cedfcd0b97739ce5e83ff6eae
