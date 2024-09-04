@@ -10,9 +10,8 @@ g++ -std=c++20 -I./include -L./lib -fcompare-debug-second <path to file>.cpp -o 
 ```
 
 ## TODO:
-- Implement dateset split
+- Categorical data loading
+- DataFrame splitting
 - Implement batch training
 - Implement more layer types, optimizers, schedulers, activation functions, losses.
-
-- 
 
